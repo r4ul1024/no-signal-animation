@@ -4,12 +4,8 @@ A simple console animation displaying the moving text "NO SIGNAL" inside a borde
 
 ---
 
-![Screenshot](path_to_screenshot.png)
+![Screenshot](images/Screenshot_2025-07-03_11-54-59.png)
 
 # Анимация NO SIGNAL
 
 Простая консольная анимация текста «NO SIGNAL», который движется внутри рамки.
-
----
-
-![Скриншот](путь_к_скриншоту.png)
