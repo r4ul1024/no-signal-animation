@@ -1,3 +1,0 @@
-/home/us3r/no-signal/build/CMakeFiles/app.dir
-/home/us3r/no-signal/build/CMakeFiles/edit_cache.dir
-/home/us3r/no-signal/build/CMakeFiles/rebuild_cache.dir
