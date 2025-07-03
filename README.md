@@ -3,7 +3,7 @@
 A simple console animation displaying the moving text "NO SIGNAL" inside a bordered box.
 
 ---
-
+### Screenshot
 ![Screenshot](images/Screenshot_2025-07-03_11-54-59.png)
 
 # Анимация NO SIGNAL
